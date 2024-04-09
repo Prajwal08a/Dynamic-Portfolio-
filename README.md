@@ -1,18 +1,6 @@
 <!-- Project Title -->
 <h1 align="center">Dynamic Portfolio</h1>
 
-<!-- Project Description -->
-<p align="center">
-  Create and customize your personal portfolio website with ease.
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20PHP%20%7C%20MySQL-blue">
-  <img src="https://img.shields.io/github/license/Abhisheksingh0303/Dynamic_Portfolio">
-  <img src="https://img.shields.io/github/stars/Abhisheksingh0303/Dynamic_Portfolio?style=social">
-  <img src="https://img.shields.io/github/forks/Abhisheksingh0303/Dynamic_Portfolio?style=social">
-</p>
 
 <!-- Project Overview -->
 ## Project Overview
